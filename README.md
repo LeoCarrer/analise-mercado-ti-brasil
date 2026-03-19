@@ -81,16 +81,16 @@ Os gráficos serão gerados automaticamente na pasta `graficos/`.
 ## 📊 Visualizações Geradas
 
 ### Salário Médio por Cargo
-![Salário por Cargo](graficos/01_salario_por_cargo.png)
+![Salário por Cargo](01_salario_por_cargo.png)
 
 ### Distribuição Salarial por Senioridade
-![Salário por Senioridade](graficos/02_salario_senioridade.png)
+![Salário por Senioridade](02_salario_senioridade.png)
 
 ### Tecnologias Mais Demandadas
-![Tecnologias](graficos/03_tecnologias_demandadas.png)
+![Tecnologias](03_tecnologias_demandadas.png)
 
 ### Modalidade de Trabalho
-![Modalidade](graficos/04_modalidade_trabalho.png)
+![Modalidade](04_modalidade_trabalho.png)
 
 ---
 
