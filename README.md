@@ -94,6 +94,15 @@ Os gráficos serão gerados automaticamente na pasta `graficos/`.
 
 ---
 
+> ⚠️ **Nota:** Os dados utilizados são sintéticos,
+> gerados com distribuições baseadas em pesquisas
+> públicas do mercado de TI brasileiro (Stack Overflow
+> Survey, Guia Salarial Robert Half 2024).
+> O foco do projeto é demonstrar habilidades técnicas
+> de análise e visualização de dados com Python.
+
+---
+
 ## 👤 Autor
 
 **Leonardo Carrer Lemos**
